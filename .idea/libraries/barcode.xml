@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="barcode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Programming/MySQL/QR--barcode-Libraries-Java--Techinbox-master/QR--barcode-Libraries-Java--Techinbox-master/QR- barcode  Libraries-Java -Techinbox/barcode.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Programming/MySQL/QR--barcode-Libraries-Java--Techinbox-master/QR--barcode-Libraries-Java--Techinbox-master/QR- barcode  Libraries-Java -Techinbox/qrgen-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Programming/MySQL/QR--barcode-Libraries-Java--Techinbox-master/QR--barcode-Libraries-Java--Techinbox-master/QR- barcode  Libraries-Java -Techinbox/zxing-core-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Programming/MySQL/QR--barcode-Libraries-Java--Techinbox-master/QR--barcode-Libraries-Java--Techinbox-master/QR- barcode  Libraries-Java -Techinbox/zxing-j2se-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
